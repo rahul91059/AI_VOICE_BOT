@@ -1,4 +1,6 @@
 # AI Voice Bot (Powered by Groq - FREE!)
+![image](https://github.com/user-attachments/assets/9667d7f1-212b-4d15-9886-e683347119e8)
+
 
 A voice-enabled chatbot that responds naturally and helpfully, built with Streamlit and Groq's FREE API.
 
